@@ -39,14 +39,6 @@ Resume Maker is a sleek and easy-to-use web application that lets users generate
 
 ---
 
-## 📸 Preview
-
-> *(Add screenshots in the `/pics` folder and link them below)*
-
-![Form Page](pics/form-preview.png)
-![Generated Resume](pics/resume-preview.png)
-
----
 
 ## 📥 Installation (Optional for Devs)
 
